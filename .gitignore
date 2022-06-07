@@ -6,4 +6,4 @@ data/
 #*.wav
 *.sav
 *__pycache__/
-.idea
+.idea/
