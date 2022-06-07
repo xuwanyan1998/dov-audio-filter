@@ -1,0 +1,9 @@
+*.swp
+*.swo
+data/
+.ipynb_checkpoints/
+*.zip
+#*.wav
+*.sav
+*__pycache__/
+.idea
